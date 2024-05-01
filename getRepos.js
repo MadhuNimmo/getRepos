@@ -98,22 +98,27 @@ async function getLastCommit(username, repoFullName) {
 }
 
 async function getTestsAndCoverage(username, repoFullName) {
+
   try {
-    // You may need to adapt this based on how test suites and coverage are stored in the repositories
-    // This is just a placeholder function
-    // For example, you can check for the existence of a 'test' directory and a coverage report file
-    const testDirectoryExists = await axios.get(`https://api.github.com/repos/${repoFullName}/contents/test`, {
+    const response = await axios.get(`https://api.github.com/repos/${repoFullName}/contents/package.json`, {
       auth: {
         username,
         password: token,
       },
     });
+    
+    const packageJsonContent = Buffer.from(response.data.content, 'base64').toString();
+    const packageJson = JSON.parse(packageJsonContent);
+
+    // Check if the package.json file contains a "scripts" object and if it has a "test" script defined
+    const hasTestScript = packageJson && packageJson.scripts && packageJson.scripts.test;
 
     return {
-      hasTestSuite: testDirectoryExists.data.length > 0,
+      hasTestSuite: !!hasTestScript,
     };
   } catch (error) {
-    //console.error(`Error fetching test information for ${repoFullName}:`, error.message);
+    // Handle errors gracefully
+    console.error(`Error fetching package.json information for ${repoFullName}:`, error.message);
     return {
       hasTestSuite: false,
     };
