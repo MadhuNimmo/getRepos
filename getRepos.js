@@ -6,7 +6,7 @@ const token = process.env.GITHUB_TOKEN;
 
 async function getTopNodeJSProjects() {
   try {
-    const perPage = 100;
+    const perPage = 200;
     let page = 1;
     let totalProjects = [];
 
@@ -14,7 +14,7 @@ async function getTopNodeJSProjects() {
     const januaryFirst2023 = new Date('2023-01-01');
 
     // Fetch projects in pages until we have at least 100 projects
-    while (totalProjects.length < 100) {
+    while (totalProjects.length < 200) {
       // Get trending Node.js repositories using the GitHub search API
       const response = await axios.get('https://api.github.com/search/repositories', {
         params: {
@@ -73,7 +73,7 @@ async function getTopNodeJSProjects() {
     }
 
     // Write the top 100 Node.js repositories with tests and coverage to a JSON file
-    fs.writeFileSync('topNodeJSProjects.json', JSON.stringify(totalProjects.slice(0, 100), null, 2));
+    fs.writeFileSync('topNodeJSProjects.json', JSON.stringify(totalProjects.slice(0, 200), null, 2));
 
     console.log('Data has been written to topNodeJSProjects.json');
   } catch (error) {

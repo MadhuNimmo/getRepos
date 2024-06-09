@@ -14,6 +14,6 @@ git init
 git remote add origin https://github.com/${git[i]}.git
 git fetch --depth 1 origin ${commit[i]}
 git checkout FETCH_HEAD
-npm install --force --ignore-scripts
+npm install --force
 cd ..
 done
