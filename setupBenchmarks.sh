@@ -1,9 +1,9 @@
 #!/bin/bash
 
-eval "$( jq -r '@sh "git=( \([.[].full_name]) )"' ./topNodeJSProjects.json )"
-eval "$( jq -r '@sh "commit=( \([.[].last_commit]) )"' ./topNodeJSProjects.json )"
+eval "$( jq -r '@sh "git=( \([.[].full_name]) )"' ./getRepos/topNodeJSProjects.json )"
+eval "$( jq -r '@sh "commit=( \([.[].last_commit]) )"' ./getRepos/topNodeJSProjects.json )"
 
-cd tests/
+cd projects/
 
 for ((i=0; i<${#git[@]};i++))
 do
