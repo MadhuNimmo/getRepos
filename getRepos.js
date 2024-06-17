@@ -112,10 +112,7 @@ async function getTestsAndCoverage(username, repoFullName) {
 
     // Check if the package.json file contains a "scripts" object and if it has a "test" script defined
     const hasTestScript = packageJson && packageJson.scripts && packageJson.scripts.test;
-    //console.log("here",repoFullName,hasTestScript)
-    if (!!hasTestScript && !(hasTestScript in testSciptArr)){
-      testSciptArr.push(hasTestScript)
-    }
+
     return {
       hasTestSuite: !!hasTestScript,
     };
