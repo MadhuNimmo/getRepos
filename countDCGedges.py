@@ -4,8 +4,7 @@ from glob import glob
 
 
 # Specify the directory containing the benchmarks
-filedir="../projects/"
-outdir="../outputs/"
+filedir="../outputs/"
 
 total_count = 0
 
