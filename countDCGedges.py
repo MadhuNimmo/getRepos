@@ -1,11 +1,12 @@
-#!/bin/bash
+import os
+from glob import glob
 
 # Specify the directory containing the benchmarks
 filedir="../projects/"
 outdir="../outputs/"
 
-# Get the list of top-level directories inside filedir
-benchmarks=($(find "$filedir" -type f -name '*_dcg.json' \;))
+
+benchmarks = glob(os.path.join(filedir, '*_dcg.json'))
 
 
 out={}
