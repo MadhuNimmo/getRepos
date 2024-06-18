@@ -20,7 +20,7 @@ echo "Running Experiments for benchmark $benchmark"
     # Run the command 10 times
     for ((i=1; i<=10; i++))
     do
-        output=$(node --max-old-space-size=16384 ./lib/main.js -j "${outdir}/${benchmark}_scg.json" "$bpath" 2>&1 | grep -E "Analysis time:.*")
+        output=$(node --max-old-space-size=40960 ~/jelly/lib/main.js -j "${outdir}/${benchmark}_scg.json" "$bpath" 2>&1 | grep -E "Analysis time:.*")
         wait
         # Check if the output contains "Analysis Time"
         if [ -n "$output" ]; then
