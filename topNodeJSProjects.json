@@ -6,16 +6,18 @@
     "pushed_at": "2024-10-08T18:31:00Z",
     "size": 704920,
     "stargazers_count": 121415,
-    "forks_count": 12011
+    "forks_count": 12011,
+    "commit_sha": "9d612ce9fe8cdb78065c9a9af740130a3ae0009a"
   },
   {
     "full_name": "nodejs/node",
     "html_url": "https://github.com/nodejs/node",
     "created_at": "2014-11-26T19:57:11Z",
-    "pushed_at": "2024-10-08T19:55:54Z",
-    "size": 1196932,
-    "stargazers_count": 107040,
-    "forks_count": 29306
+    "pushed_at": "2024-10-08T21:49:38Z",
+    "size": 1196948,
+    "stargazers_count": 107044,
+    "forks_count": 29308,
+    "commit_sha": "09d10b50dcdf44b5ab0e97d22fc56dc52c594bd5"
   },
   {
     "full_name": "axios/axios",
@@ -24,7 +26,9 @@
     "pushed_at": "2024-10-07T09:58:50Z",
     "size": 17666,
     "stargazers_count": 105412,
-    "forks_count": 10892
+    "forks_count": 10893,
+    "commit_sha": "023efb6f034ebf2c4cefc4afe899a3e4ed1890d1",
+    "note": "errors in running: chrome related issues"
   },
   {
     "full_name": "expressjs/express",
@@ -32,8 +36,9 @@
     "created_at": "2009-06-26T18:56:01Z",
     "pushed_at": "2024-10-08T19:41:00Z",
     "size": 9501,
-    "stargazers_count": 65340,
-    "forks_count": 15871
+    "stargazers_count": 65338,
+    "forks_count": 15872,
+    "commit_sha": "d14b2de782c16fbef39541c9009b01bd6ae90b92"
   },
   {
     "full_name": "leonardomso/33-js-concepts",
@@ -41,17 +46,19 @@
     "created_at": "2018-09-04T13:27:04Z",
     "pushed_at": "2024-10-07T15:31:44Z",
     "size": 1512,
-    "stargazers_count": 63392,
-    "forks_count": 8853
+    "stargazers_count": 63393,
+    "forks_count": 8853,
+    "commit_sha": "8e89373c204e8dc05ca42d064d028831bf82e120"
   },
   {
     "full_name": "TryGhost/Ghost",
     "html_url": "https://github.com/TryGhost/Ghost",
     "created_at": "2013-05-04T11:09:13Z",
-    "pushed_at": "2024-10-08T19:09:33Z",
-    "size": 318232,
+    "pushed_at": "2024-10-08T21:05:02Z",
+    "size": 318847,
     "stargazers_count": 47073,
-    "forks_count": 10248
+    "forks_count": 10248,
+    "commit_sha": "18774199398146424294ce44200f7b261414c652"
   },
   {
     "full_name": "meteor/meteor",
@@ -60,7 +67,8 @@
     "pushed_at": "2024-10-08T16:15:45Z",
     "size": 131622,
     "stargazers_count": 44354,
-    "forks_count": 5179
+    "forks_count": 5179,
+    "commit_sha": "0f986bc4023dd71cf990a82b201a9865de4fb7d6"
   },
   {
     "full_name": "google/zx",
@@ -68,8 +76,9 @@
     "created_at": "2021-05-05T05:50:01Z",
     "pushed_at": "2024-10-06T19:34:05Z",
     "size": 1717,
-    "stargazers_count": 42931,
-    "forks_count": 1091
+    "stargazers_count": 42932,
+    "forks_count": 1091,
+    "commit_sha": "c3061ab1333a3b7b25cc8095489357e332fd4b94"
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
@@ -77,8 +86,9 @@
     "created_at": "2019-12-23T14:07:40Z",
     "pushed_at": "2024-08-19T13:51:31Z",
     "size": 124975,
-    "stargazers_count": 42924,
-    "forks_count": 9969
+    "stargazers_count": 42923,
+    "forks_count": 9969,
+    "commit_sha": "55d8e3dbc0410d64c1dc3ea5915e015a7950cf2a"
   },
   {
     "full_name": "Unitech/pm2",
@@ -87,7 +97,8 @@
     "pushed_at": "2024-10-02T19:57:40Z",
     "size": 13354,
     "stargazers_count": 41403,
-    "forks_count": 2614
+    "forks_count": 2614,
+    "commit_sha": "de0bbad9afe29f4e316452af373d1c7b87655ca0"
   },
   {
     "full_name": "nwjs/nw.js",
@@ -96,7 +107,8 @@
     "pushed_at": "2024-10-07T18:09:27Z",
     "size": 129581,
     "stargazers_count": 40331,
-    "forks_count": 3884
+    "forks_count": 3884,
+    "commit_sha": "7d0a7bb69f75969bbbaf51ae0cb79dd723747749"
   },
   {
     "full_name": "LeCoupa/awesome-cheatsheets",
@@ -105,7 +117,8 @@
     "pushed_at": "2024-08-24T21:07:02Z",
     "size": 8957,
     "stargazers_count": 39921,
-    "forks_count": 6162
+    "forks_count": 6162,
+    "commit_sha": "88e5be6e4b01edf6c36c8f78b246c8fba70aa058"
   },
   {
     "full_name": "sahat/hackathon-starter",
@@ -114,7 +127,8 @@
     "pushed_at": "2024-05-13T15:04:44Z",
     "size": 13960,
     "stargazers_count": 34838,
-    "forks_count": 8162
+    "forks_count": 8162,
+    "commit_sha": "ed7f82d8f80426ab7eb267fb15601668bec993a8"
   },
   {
     "full_name": "fastify/fastify",
@@ -123,7 +137,8 @@
     "pushed_at": "2024-10-07T14:06:28Z",
     "size": 8316,
     "stargazers_count": 32098,
-    "forks_count": 2267
+    "forks_count": 2267,
+    "commit_sha": "38289e12e7f7e301df3576b503cf5df5865527b1"
   },
   {
     "full_name": "webtorrent/webtorrent",
@@ -132,7 +147,8 @@
     "pushed_at": "2024-09-28T19:38:09Z",
     "size": 37447,
     "stargazers_count": 29510,
-    "forks_count": 2706
+    "forks_count": 2706,
+    "commit_sha": "7101698ac1cd5087c8b026afdca20f3dee2aa633"
   },
   {
     "full_name": "ToolJet/ToolJet",
@@ -140,8 +156,9 @@
     "created_at": "2021-03-30T08:51:34Z",
     "pushed_at": "2024-10-08T07:47:05Z",
     "size": 1348579,
-    "stargazers_count": 29411,
-    "forks_count": 3659
+    "stargazers_count": 29413,
+    "forks_count": 3659,
+    "commit_sha": "5c5e32647ef6dc9f0aaf2bebf67ef55f0bc02a3a"
   },
   {
     "full_name": "standard/standard",
@@ -150,7 +167,8 @@
     "pushed_at": "2024-09-13T12:48:47Z",
     "size": 3659,
     "stargazers_count": 29078,
-    "forks_count": 2327
+    "forks_count": 2327,
+    "commit_sha": "be621152d2c0a23079296035bb26e57cebe2f319"
   },
   {
     "full_name": "lovell/sharp",
@@ -159,25 +177,28 @@
     "pushed_at": "2024-09-06T12:40:49Z",
     "size": 49423,
     "stargazers_count": 29026,
-    "forks_count": 1292
+    "forks_count": 1292,
+    "commit_sha": "b249357732698853b00dbc7c93a284db7aeb6f1b"
   },
   {
     "full_name": "Automattic/mongoose",
     "html_url": "https://github.com/Automattic/mongoose",
     "created_at": "2010-04-06T21:39:05Z",
-    "pushed_at": "2024-10-08T18:27:00Z",
-    "size": 130914,
+    "pushed_at": "2024-10-08T20:02:49Z",
+    "size": 130915,
     "stargazers_count": 26891,
-    "forks_count": 3834
+    "forks_count": 3834,
+    "commit_sha": "ee6b861edea5228c2de66422eba0e7346ec164b7"
   },
   {
     "full_name": "haizlin/fe-interview",
     "html_url": "https://github.com/haizlin/fe-interview",
     "created_at": "2019-04-17T03:05:58Z",
-    "pushed_at": "2024-10-07T20:49:10Z",
-    "size": 7527,
+    "pushed_at": "2024-10-08T20:49:09Z",
+    "size": 7697,
     "stargazers_count": 25324,
-    "forks_count": 3248
+    "forks_count": 3248,
+    "commit_sha": "79559d2d22882512f5d5ca39612ccf0046d38109"
   },
   {
     "full_name": "Mintplex-Labs/anything-llm",
@@ -185,8 +206,9 @@
     "created_at": "2023-06-04T02:29:14Z",
     "pushed_at": "2024-10-08T00:17:53Z",
     "size": 42246,
-    "stargazers_count": 24285,
-    "forks_count": 2428
+    "stargazers_count": 24290,
+    "forks_count": 2428,
+    "commit_sha": "b658f5012de0658272fb0853a1c00a1fda2ccf1f"
   },
   {
     "full_name": "goldbergyoni/javascript-testing-best-practices",
@@ -195,7 +217,8 @@
     "pushed_at": "2024-06-27T07:25:17Z",
     "size": 10417,
     "stargazers_count": 23992,
-    "forks_count": 2069
+    "forks_count": 2069,
+    "commit_sha": "63a2bb07bb718d0a34a9c1249ef0df9b1266dad8"
   },
   {
     "full_name": "jaredhanson/passport",
@@ -203,8 +226,9 @@
     "created_at": "2011-10-08T22:38:32Z",
     "pushed_at": "2024-08-16T21:56:14Z",
     "size": 847,
-    "stargazers_count": 22892,
-    "forks_count": 1241
+    "stargazers_count": 22893,
+    "forks_count": 1241,
+    "commit_sha": "217018dbc46dcd4118dd6f2c60c8d97010c587f8"
   },
   {
     "full_name": "mochajs/mocha",
@@ -213,7 +237,8 @@
     "pushed_at": "2024-10-07T17:09:20Z",
     "size": 26361,
     "stargazers_count": 22577,
-    "forks_count": 3007
+    "forks_count": 3007,
+    "commit_sha": "1173da0bf614e8d2a826687802ee8cbe8671ccf1"
   },
   {
     "full_name": "websockets/ws",
@@ -222,7 +247,8 @@
     "pushed_at": "2024-08-20T20:39:25Z",
     "size": 14186,
     "stargazers_count": 21625,
-    "forks_count": 2420
+    "forks_count": 2420,
+    "commit_sha": "019f28ff1ffddfcdc428d1de5ecd98648057a2ab"
   },
   {
     "full_name": "typicode/lowdb",
@@ -231,7 +257,8 @@
     "pushed_at": "2024-06-16T09:51:11Z",
     "size": 1208,
     "stargazers_count": 21411,
-    "forks_count": 922
+    "forks_count": 922,
+    "commit_sha": "1b004c8228029161a15b557ba0bb638eaad3fd4b"
   },
   {
     "full_name": "svg/svgo",
@@ -239,8 +266,9 @@
     "created_at": "2012-08-22T10:41:43Z",
     "pushed_at": "2024-10-02T20:39:45Z",
     "size": 6121,
-    "stargazers_count": 20900,
-    "forks_count": 1384
+    "stargazers_count": 20901,
+    "forks_count": 1384,
+    "commit_sha": "a8472bc45fe1d92d5f848a08cf4d5c8f4a531ad9"
   },
   {
     "full_name": "parse-community/parse-server",
@@ -249,7 +277,8 @@
     "pushed_at": "2024-10-08T12:08:38Z",
     "size": 64662,
     "stargazers_count": 20871,
-    "forks_count": 4777
+    "forks_count": 4777,
+    "commit_sha": "37357eb159b023b470bfa9040bfdf1fa95dcf2ce"
   },
   {
     "full_name": "avajs/ava",
@@ -257,8 +286,9 @@
     "created_at": "2014-11-18T17:20:26Z",
     "pushed_at": "2024-08-20T13:55:44Z",
     "size": 13856,
-    "stargazers_count": 20728,
-    "forks_count": 1403
+    "stargazers_count": 20729,
+    "forks_count": 1403,
+    "commit_sha": "86185b4ef7677cba26ef20a0b57e29fc28db0a24"
   },
   {
     "full_name": "jsdom/jsdom",
@@ -267,7 +297,8 @@
     "pushed_at": "2024-09-22T04:59:51Z",
     "size": 45488,
     "stargazers_count": 20452,
-    "forks_count": 1699
+    "forks_count": 1699,
+    "commit_sha": "04541b377d9949d6ab56866760b7883a23db0577"
   },
   {
     "full_name": "motdotla/dotenv",
@@ -276,7 +307,8 @@
     "pushed_at": "2024-07-26T15:52:47Z",
     "size": 1385,
     "stargazers_count": 19103,
-    "forks_count": 855
+    "forks_count": 855,
+    "commit_sha": "8ab33066f90a20445d3c41e4fafba6c929c5e1a5"
   },
   {
     "full_name": "eggjs/egg",
@@ -285,7 +317,8 @@
     "pushed_at": "2024-09-16T04:26:26Z",
     "size": 10190,
     "stargazers_count": 18880,
-    "forks_count": 1814
+    "forks_count": 1814,
+    "commit_sha": "ce4fd67278e008a0f58beff8db5c0f770f3eadc7"
   },
   {
     "full_name": "modood/Administrative-divisions-of-China",
@@ -294,7 +327,8 @@
     "pushed_at": "2023-09-13T01:37:45Z",
     "size": 167078,
     "stargazers_count": 18453,
-    "forks_count": 7032
+    "forks_count": 7032,
+    "commit_sha": "6fb5380de7e6c961869dcd1629df4adc088fa9bb"
   },
   {
     "full_name": "mysqljs/mysql",
@@ -303,7 +337,8 @@
     "pushed_at": "2024-06-25T12:03:39Z",
     "size": 2682,
     "stargazers_count": 18283,
-    "forks_count": 2522
+    "forks_count": 2522,
+    "commit_sha": "dc9c152a87ec51a1f647447268917243d2eab1fd"
   },
   {
     "full_name": "statsd/statsd",
@@ -312,7 +347,8 @@
     "pushed_at": "2024-01-17T17:46:57Z",
     "size": 833,
     "stargazers_count": 17629,
-    "forks_count": 1959
+    "forks_count": 1959,
+    "commit_sha": "7c07eec4e7cebbd376d8313b230cea96c6571423"
   },
   {
     "full_name": "OptimalBits/bull",
@@ -321,7 +357,8 @@
     "pushed_at": "2024-09-28T20:52:25Z",
     "size": 3986,
     "stargazers_count": 15475,
-    "forks_count": 1432
+    "forks_count": 1432,
+    "commit_sha": "c2f37ee194f0d16d78329e2fa4ea335db37350a6"
   },
   {
     "full_name": "nswbmw/N-blog",
@@ -330,7 +367,8 @@
     "pushed_at": "2023-04-26T10:06:31Z",
     "size": 10727,
     "stargazers_count": 15418,
-    "forks_count": 4644
+    "forks_count": 4644,
+    "commit_sha": "c842ec496fd90667bcb1acd8c9dd42aa3985526d"
   },
   {
     "full_name": "gpujs/gpu.js",
@@ -338,8 +376,9 @@
     "created_at": "2016-02-09T09:13:37Z",
     "pushed_at": "2024-02-22T11:24:13Z",
     "size": 20529,
-    "stargazers_count": 15118,
-    "forks_count": 655
+    "stargazers_count": 15119,
+    "forks_count": 655,
+    "commit_sha": "6d7dde32679f56f3dc99013cfdb5aa8accc159da"
   },
   {
     "full_name": "keystonejs/keystone-classic",
@@ -348,7 +387,8 @@
     "pushed_at": "2023-12-13T02:27:13Z",
     "size": 151918,
     "stargazers_count": 14636,
-    "forks_count": 2204
+    "forks_count": 2204,
+    "commit_sha": "6e5ba1142a0909c64a1a38e20f31fcf9bed6e4db"
   },
   {
     "full_name": "hapijs/hapi",
@@ -357,7 +397,8 @@
     "pushed_at": "2024-08-13T15:52:44Z",
     "size": 17002,
     "stargazers_count": 14610,
-    "forks_count": 1341
+    "forks_count": 1341,
+    "commit_sha": "22377ee7329b553f9ef72ff869940dce05523920"
   },
   {
     "full_name": "avwo/whistle",
@@ -366,7 +407,8 @@
     "pushed_at": "2024-09-23T13:35:19Z",
     "size": 85680,
     "stargazers_count": 14272,
-    "forks_count": 1083
+    "forks_count": 1083,
+    "commit_sha": "1c52164788329cc4d151f32d771c68ab51c1d9e0"
   },
   {
     "full_name": "shelljs/shelljs",
@@ -375,7 +417,8 @@
     "pushed_at": "2024-08-13T17:53:24Z",
     "size": 1411,
     "stargazers_count": 14261,
-    "forks_count": 734
+    "forks_count": 734,
+    "commit_sha": "8a960da8383666024bfdb2eff709a4fdf66333ee"
   },
   {
     "full_name": "auchenberg/volkswagen",
@@ -384,16 +427,18 @@
     "pushed_at": "2023-12-14T00:17:50Z",
     "size": 248,
     "stargazers_count": 14230,
-    "forks_count": 234
+    "forks_count": 234,
+    "commit_sha": "538316195ac0fa6988b49490836d46202ab455d8"
   },
   {
     "full_name": "NodeBB/NodeBB",
     "html_url": "https://github.com/NodeBB/NodeBB",
     "created_at": "2013-04-22T16:49:40Z",
-    "pushed_at": "2024-10-08T19:27:55Z",
-    "size": 91742,
+    "pushed_at": "2024-10-08T20:28:44Z",
+    "size": 91762,
     "stargazers_count": 14149,
-    "forks_count": 2781
+    "forks_count": 2781,
+    "commit_sha": "a5f3d097bb0a52226b2f1ecbb4cac2f1faf41f47"
   },
   {
     "full_name": "pinojs/pino",
@@ -402,16 +447,18 @@
     "pushed_at": "2024-09-23T16:08:06Z",
     "size": 3043,
     "stargazers_count": 14103,
-    "forks_count": 871
+    "forks_count": 871,
+    "commit_sha": "7cff45a1d6e90697db330121e5b3fb689e8623e3"
   },
   {
     "full_name": "marko-js/marko",
     "html_url": "https://github.com/marko-js/marko",
     "created_at": "2014-01-07T23:58:21Z",
-    "pushed_at": "2024-10-08T19:51:50Z",
-    "size": 30762,
-    "stargazers_count": 13372,
-    "forks_count": 644
+    "pushed_at": "2024-10-08T20:27:19Z",
+    "size": 30912,
+    "stargazers_count": 13373,
+    "forks_count": 644,
+    "commit_sha": "a279d0934968f34661d37bb29eb99ae7415fa5b6"
   },
   {
     "full_name": "graphql/dataloader",
@@ -420,7 +467,8 @@
     "pushed_at": "2024-08-27T16:14:30Z",
     "size": 545,
     "stargazers_count": 12860,
-    "forks_count": 513
+    "forks_count": 513,
+    "commit_sha": "77c2cd7ca97e8795242018ebc212ce2487e729d2"
   },
   {
     "full_name": "jwagner/smartcrop.js",
@@ -429,7 +477,8 @@
     "pushed_at": "2024-03-16T23:45:27Z",
     "size": 23243,
     "stargazers_count": 12833,
-    "forks_count": 577
+    "forks_count": 577,
+    "commit_sha": "0e207ed910625f91b07d35865c71a9621a63ebdb"
   },
   {
     "full_name": "nextapps-de/flexsearch",
@@ -438,7 +487,8 @@
     "pushed_at": "2024-07-09T20:16:59Z",
     "size": 2768,
     "stargazers_count": 12383,
-    "forks_count": 489
+    "forks_count": 489,
+    "commit_sha": "961c3ae84a87fb3af2a52047fd7c8adc8949b86d"
   },
   {
     "full_name": "HabitRPG/habitica",
@@ -447,7 +497,8 @@
     "pushed_at": "2024-10-05T01:13:55Z",
     "size": 1653977,
     "stargazers_count": 11900,
-    "forks_count": 4063
+    "forks_count": 4063,
+    "commit_sha": "af1793031462c426dd044c787fe25a5a56861386"
   },
   {
     "full_name": "nightwatchjs/nightwatch",
@@ -456,7 +507,8 @@
     "pushed_at": "2024-09-18T13:22:15Z",
     "size": 54378,
     "stargazers_count": 11792,
-    "forks_count": 1307
+    "forks_count": 1307,
+    "commit_sha": "bc9818a08cc8c137921ca3a2dec9dacd49656a90"
   },
   {
     "full_name": "qeeqbox/social-analyzer",
@@ -465,7 +517,8 @@
     "pushed_at": "2024-03-16T22:47:55Z",
     "size": 63187,
     "stargazers_count": 11503,
-    "forks_count": 909
+    "forks_count": 909,
+    "commit_sha": "e7d0b808561a7895eebfc152dd74528b85a5ae24"
   },
   {
     "full_name": "paulmillr/chokidar",
@@ -474,7 +527,8 @@
     "pushed_at": "2024-10-04T19:13:51Z",
     "size": 1992,
     "stargazers_count": 10945,
-    "forks_count": 579
+    "forks_count": 579,
+    "commit_sha": "9f235bfd23d11b2f1160829cbbebe6d2fa9a3433"
   },
   {
     "full_name": "reactide/reactide",
@@ -483,7 +537,8 @@
     "pushed_at": "2023-01-08T11:31:34Z",
     "size": 55197,
     "stargazers_count": 10532,
-    "forks_count": 617
+    "forks_count": 617,
+    "commit_sha": "564d8c3bdd26ddc05424257c5ec497fe7ad60792"
   },
   {
     "full_name": "r-spacex/SpaceX-API",
@@ -492,7 +547,8 @@
     "pushed_at": "2024-08-17T01:38:13Z",
     "size": 17928,
     "stargazers_count": 10452,
-    "forks_count": 926
+    "forks_count": 926,
+    "commit_sha": "9f56af14a75ae410c26eb0317971d51ae1574f6a"
   },
   {
     "full_name": "FredrikNoren/ungit",
@@ -501,7 +557,8 @@
     "pushed_at": "2024-10-08T00:25:50Z",
     "size": 21912,
     "stargazers_count": 10437,
-    "forks_count": 640
+    "forks_count": 640,
+    "commit_sha": "4487493c9e2b69d1adf190d24ae3899ce6f51293"
   },
   {
     "full_name": "Netflix/pollyjs",
@@ -510,7 +567,8 @@
     "pushed_at": "2023-10-08T03:50:51Z",
     "size": 4851,
     "stargazers_count": 10212,
-    "forks_count": 352
+    "forks_count": 352,
+    "commit_sha": "9b6bede12b7ee998472b8883c9dd01e2159e00a8"
   },
   {
     "full_name": "TheOdinProject/curriculum",
@@ -519,7 +577,8 @@
     "pushed_at": "2024-10-08T16:30:45Z",
     "size": 134046,
     "stargazers_count": 9924,
-    "forks_count": 13276
+    "forks_count": 13277,
+    "commit_sha": "12e86791e8bdf45eb72fc7dcea30d683605d4d64"
   },
   {
     "full_name": "senchalabs/connect",
@@ -528,7 +587,8 @@
     "pushed_at": "2024-09-27T16:10:21Z",
     "size": 5321,
     "stargazers_count": 9823,
-    "forks_count": 1094
+    "forks_count": 1094,
+    "commit_sha": "98ab0c435852b311ed57fe48a1846c2dae84e266"
   },
   {
     "full_name": "aksakalli/gtop",
@@ -536,8 +596,9 @@
     "created_at": "2017-08-09T15:12:28Z",
     "pushed_at": "2024-04-16T20:31:23Z",
     "size": 444,
-    "stargazers_count": 9700,
-    "forks_count": 326
+    "stargazers_count": 9701,
+    "forks_count": 326,
+    "commit_sha": "0406441b45953d79537089b8e3b48f50c2e849cf"
   },
   {
     "full_name": "webtorrent/webtorrent-desktop",
@@ -546,7 +607,8 @@
     "pushed_at": "2024-09-27T12:07:41Z",
     "size": 177079,
     "stargazers_count": 9695,
-    "forks_count": 1002
+    "forks_count": 1002,
+    "commit_sha": "0fe3dd977fd4e5cdbe80d0836e7cc2ebddac5289"
   },
   {
     "full_name": "playcanvas/engine",
@@ -554,8 +616,9 @@
     "created_at": "2014-05-12T11:24:30Z",
     "pushed_at": "2024-10-08T11:01:44Z",
     "size": 339528,
-    "stargazers_count": 9605,
-    "forks_count": 1343
+    "stargazers_count": 9606,
+    "forks_count": 1343,
+    "commit_sha": "9d8d141df4644be114720565aef1a19a45bd4e60"
   },
   {
     "full_name": "jprichardson/node-fs-extra",
@@ -564,7 +627,8 @@
     "pushed_at": "2024-03-06T18:57:14Z",
     "size": 1240,
     "stargazers_count": 9450,
-    "forks_count": 773
+    "forks_count": 773,
+    "commit_sha": "d96f2655f181f1c6b1641711619400140a89d027"
   },
   {
     "full_name": "olistic/warriorjs",
@@ -573,7 +637,8 @@
     "pushed_at": "2023-04-04T16:12:17Z",
     "size": 6462,
     "stargazers_count": 9429,
-    "forks_count": 489
+    "forks_count": 489,
+    "commit_sha": "ec531b4d4b6b7c3e51e5adbd03f575af56ebebc8"
   },
   {
     "full_name": "evolus/pencil",
@@ -582,7 +647,8 @@
     "pushed_at": "2024-09-10T07:20:03Z",
     "size": 37364,
     "stargazers_count": 9054,
-    "forks_count": 717
+    "forks_count": 717,
+    "commit_sha": "b8bef24042e4ec2c1a2c30c20a12db3bf38668ca"
   },
   {
     "full_name": "klaudiosinani/signale",
@@ -591,7 +657,8 @@
     "pushed_at": "2024-08-30T10:10:07Z",
     "size": 851,
     "stargazers_count": 8919,
-    "forks_count": 232
+    "forks_count": 232,
+    "commit_sha": "830cdd56b2699d0dcdcbc96264fdaa1a80e82678"
   },
   {
     "full_name": "terkelg/prompts",
@@ -600,16 +667,18 @@
     "pushed_at": "2024-08-19T07:44:32Z",
     "size": 8698,
     "stargazers_count": 8849,
-    "forks_count": 307
+    "forks_count": 307,
+    "commit_sha": "e0519913ec4fcc6746bb3d97d8cd0960c3f3ffde"
   },
   {
     "full_name": "PipedreamHQ/pipedream",
     "html_url": "https://github.com/PipedreamHQ/pipedream",
     "created_at": "2020-01-22T00:28:31Z",
-    "pushed_at": "2024-10-08T19:42:52Z",
-    "size": 437067,
+    "pushed_at": "2024-10-08T21:33:03Z",
+    "size": 437486,
     "stargazers_count": 8840,
-    "forks_count": 5272
+    "forks_count": 5272,
+    "commit_sha": "0ef5c8ad39a0e81077b92e292d19186e15300222"
   },
   {
     "full_name": "beautifier/js-beautify",
@@ -618,7 +687,8 @@
     "pushed_at": "2024-09-30T23:40:39Z",
     "size": 12706,
     "stargazers_count": 8600,
-    "forks_count": 1378
+    "forks_count": 1378,
+    "commit_sha": "b91d6b804e7a5bdd96874dd2cf3969d5dff4a842"
   },
   {
     "full_name": "gridsome/gridsome",
@@ -627,7 +697,8 @@
     "pushed_at": "2024-04-10T15:56:12Z",
     "size": 8592,
     "stargazers_count": 8540,
-    "forks_count": 489
+    "forks_count": 489,
+    "commit_sha": "e396e60ddb9435813dc56cc2d1f98c91c7d64367"
   },
   {
     "full_name": "ljharb/qs",
@@ -636,7 +707,8 @@
     "pushed_at": "2024-08-22T19:15:16Z",
     "size": 12019,
     "stargazers_count": 8525,
-    "forks_count": 731
+    "forks_count": 731,
+    "commit_sha": "3c8a6f5a1e8d2c4772fd733c7ca1a28e92498fd7"
   },
   {
     "full_name": "npm/cli",
@@ -645,7 +717,8 @@
     "pushed_at": "2024-10-07T16:55:43Z",
     "size": 165054,
     "stargazers_count": 8398,
-    "forks_count": 3119
+    "forks_count": 3120,
+    "commit_sha": "feb54f7e9a39bd52519221bae4fafc8bc70f235e"
   },
   {
     "full_name": "yagop/node-telegram-bot-api",
@@ -654,7 +727,8 @@
     "pushed_at": "2024-09-05T22:07:27Z",
     "size": 2301,
     "stargazers_count": 8353,
-    "forks_count": 1517
+    "forks_count": 1517,
+    "commit_sha": "766b4344a8bc3861c1eef43333a4887ac8ed2879"
   },
   {
     "full_name": "primer/octicons",
@@ -663,7 +737,8 @@
     "pushed_at": "2024-10-07T21:37:35Z",
     "size": 15981,
     "stargazers_count": 8290,
-    "forks_count": 827
+    "forks_count": 827,
+    "commit_sha": "7a5ac85800359eb1ee6c98c90533c5f344e6532d"
   },
   {
     "full_name": "expressjs/morgan",
@@ -672,7 +747,8 @@
     "pushed_at": "2024-06-17T18:07:08Z",
     "size": 245,
     "stargazers_count": 7927,
-    "forks_count": 531
+    "forks_count": 531,
+    "commit_sha": "efd6bff1adae9418f12a8827614336c72e2c4300"
   },
   {
     "full_name": "metalsmith/metalsmith",
@@ -681,7 +757,8 @@
     "pushed_at": "2024-10-01T20:55:26Z",
     "size": 3477,
     "stargazers_count": 7829,
-    "forks_count": 628
+    "forks_count": 628,
+    "commit_sha": "b75de5e89567acc5e6a1d94857833ba69e772798"
   },
   {
     "full_name": "i18next/i18next",
@@ -690,7 +767,8 @@
     "pushed_at": "2024-10-05T07:07:27Z",
     "size": 23352,
     "stargazers_count": 7717,
-    "forks_count": 642
+    "forks_count": 642,
+    "commit_sha": "60e3779e7635b63794d071127143dd2e2e18f5f5"
   },
   {
     "full_name": "xojs/xo",
@@ -699,7 +777,8 @@
     "pushed_at": "2024-07-28T12:36:46Z",
     "size": 771,
     "stargazers_count": 7672,
-    "forks_count": 290
+    "forks_count": 290,
+    "commit_sha": "1877df631c64229d628440cb913f0ad2e58e346e"
   },
   {
     "full_name": "enquirer/enquirer",
@@ -708,7 +787,8 @@
     "pushed_at": "2024-06-11T15:05:05Z",
     "size": 16539,
     "stargazers_count": 7671,
-    "forks_count": 283
+    "forks_count": 283,
+    "commit_sha": "70bdb0fedc3ed355d9d8fe4f00ac9b3874f94f61"
   },
   {
     "full_name": "sindresorhus/np",
@@ -717,7 +797,8 @@
     "pushed_at": "2024-08-18T04:01:13Z",
     "size": 1088,
     "stargazers_count": 7555,
-    "forks_count": 298
+    "forks_count": 298,
+    "commit_sha": "1965a6b3dfe8ea78806b70c5ebe23a95a77b4156"
   },
   {
     "full_name": "microsoft/botframework-sdk",
@@ -726,7 +807,8 @@
     "pushed_at": "2024-05-06T14:40:52Z",
     "size": 21207,
     "stargazers_count": 7492,
-    "forks_count": 2440
+    "forks_count": 2440,
+    "commit_sha": "53030367d467f61ebc75e17acc442961dd1961ad"
   },
   {
     "full_name": "isomorphic-git/isomorphic-git",
@@ -735,7 +817,8 @@
     "pushed_at": "2024-07-29T09:37:41Z",
     "size": 46145,
     "stargazers_count": 7452,
-    "forks_count": 375
+    "forks_count": 375,
+    "commit_sha": "9103da548885b85dff89183d9ba654d23c6c3b09"
   },
   {
     "full_name": "porsager/postgres",
@@ -744,7 +827,8 @@
     "pushed_at": "2024-09-27T10:42:14Z",
     "size": 1609,
     "stargazers_count": 7391,
-    "forks_count": 267
+    "forks_count": 267,
+    "commit_sha": "18186998b89a8ec60b82fd7140783f8833810e2d"
   },
   {
     "full_name": "feross/simple-peer",
@@ -753,7 +837,8 @@
     "pushed_at": "2024-06-26T14:45:57Z",
     "size": 2740,
     "stargazers_count": 7389,
-    "forks_count": 971
+    "forks_count": 971,
+    "commit_sha": "f1a492d1999ce727fa87193ebdea20ac89c1fc6d"
   },
   {
     "full_name": "givanz/VvvebJs",
@@ -762,7 +847,8 @@
     "pushed_at": "2024-09-23T09:00:49Z",
     "size": 22440,
     "stargazers_count": 7165,
-    "forks_count": 1637
+    "forks_count": 1637,
+    "commit_sha": "1a7e4a7367032ad15acddd33df2e27bff190966c"
   },
   {
     "full_name": "sindresorhus/fkill-cli",
@@ -771,7 +857,8 @@
     "pushed_at": "2024-05-30T22:19:12Z",
     "size": 1269,
     "stargazers_count": 6871,
-    "forks_count": 160
+    "forks_count": 160,
+    "commit_sha": "0288e35b0f8a312bc20472d405c730ceb2771481"
   },
   {
     "full_name": "hagopj13/node-express-boilerplate",
@@ -780,7 +867,8 @@
     "pushed_at": "2024-07-08T10:46:16Z",
     "size": 1620,
     "stargazers_count": 6864,
-    "forks_count": 2022
+    "forks_count": 2022,
+    "commit_sha": "179ae84efec61b14206d0305d941daed6c6d07f9"
   },
   {
     "full_name": "sindresorhus/execa",
@@ -789,7 +877,8 @@
     "pushed_at": "2024-09-17T06:41:24Z",
     "size": 2451,
     "stargazers_count": 6796,
-    "forks_count": 214
+    "forks_count": 214,
+    "commit_sha": "d3a146e2cc7809a59a914f5b8ca26751fc1d5b8a"
   },
   {
     "full_name": "jagenjo/litegraph.js",
@@ -798,7 +887,8 @@
     "pushed_at": "2024-08-01T08:49:24Z",
     "size": 28827,
     "stargazers_count": 6683,
-    "forks_count": 712
+    "forks_count": 712,
+    "commit_sha": "0555a2f2a3df5d4657593c6d45eb192359888195"
   },
   {
     "full_name": "jely2002/youtube-dl-gui",
@@ -807,7 +897,8 @@
     "pushed_at": "2023-09-25T15:56:15Z",
     "size": 237620,
     "stargazers_count": 6586,
-    "forks_count": 467
+    "forks_count": 467,
+    "commit_sha": "29f63a51d4ee224dcde27a0a0fbc522cc5874b9d"
   },
   {
     "full_name": "bookshelf/bookshelf",
@@ -816,7 +907,8 @@
     "pushed_at": "2024-08-10T14:12:20Z",
     "size": 7283,
     "stargazers_count": 6358,
-    "forks_count": 571
+    "forks_count": 571,
+    "commit_sha": "7704fbc5e83a35357d89458d9269a7e739964296"
   },
   {
     "full_name": "fonoster/fonoster",
@@ -824,17 +916,19 @@
     "created_at": "2018-02-04T02:58:54Z",
     "pushed_at": "2024-10-01T12:28:39Z",
     "size": 134153,
-    "stargazers_count": 6322,
-    "forks_count": 344
+    "stargazers_count": 6323,
+    "forks_count": 344,
+    "commit_sha": "b354e69499ac3c45fb2286659987ace1da489100"
   },
   {
     "full_name": "expressjs/session",
     "html_url": "https://github.com/expressjs/session",
     "created_at": "2014-02-16T00:38:44Z",
     "pushed_at": "2024-10-08T19:55:29Z",
-    "size": 724,
+    "size": 725,
     "stargazers_count": 6247,
-    "forks_count": 977
+    "forks_count": 977,
+    "commit_sha": "bbeca94e69b93d437c4ca300b111bd59169de925"
   },
   {
     "full_name": "axa-group/nlp.js",
@@ -843,7 +937,8 @@
     "pushed_at": "2024-06-21T13:03:28Z",
     "size": 32786,
     "stargazers_count": 6239,
-    "forks_count": 619
+    "forks_count": 619,
+    "commit_sha": "62731109b5dc5d9ed727c6e599443fb29eaea798"
   },
   {
     "full_name": "nodejs/undici",
@@ -851,8 +946,9 @@
     "created_at": "2018-05-11T22:07:48Z",
     "pushed_at": "2024-10-08T16:45:08Z",
     "size": 10380,
-    "stargazers_count": 6149,
-    "forks_count": 531
+    "stargazers_count": 6150,
+    "forks_count": 532,
+    "commit_sha": "7b3f18a3674bedfa939d53b4cd4a488cbcbd778f"
   },
   {
     "full_name": "SocketCluster/socketcluster",
@@ -861,7 +957,8 @@
     "pushed_at": "2024-07-04T09:07:26Z",
     "size": 2616,
     "stargazers_count": 6147,
-    "forks_count": 314
+    "forks_count": 314,
+    "commit_sha": "1c416c923a4a26afe17cf93552048be1a51b7de8"
   },
   {
     "full_name": "moleculerjs/moleculer",
@@ -870,7 +967,8 @@
     "pushed_at": "2024-09-30T18:28:04Z",
     "size": 29288,
     "stargazers_count": 6142,
-    "forks_count": 582
+    "forks_count": 582,
+    "commit_sha": "df56be175e0d5ae9df64830573eec84b31e6044a"
   },
   {
     "full_name": "expressjs/cors",
@@ -879,7 +977,8 @@
     "pushed_at": "2024-10-07T08:58:07Z",
     "size": 219,
     "stargazers_count": 6044,
-    "forks_count": 470
+    "forks_count": 470,
+    "commit_sha": "53312a5bee605e2486fa734756abb3c0bc2f891d"
   },
   {
     "full_name": "illuspas/Node-Media-Server",
@@ -888,7 +987,8 @@
     "pushed_at": "2024-08-12T16:43:31Z",
     "size": 1586,
     "stargazers_count": 5956,
-    "forks_count": 1519
+    "forks_count": 1519,
+    "commit_sha": "abcacc3b9274cfa6df8aab874df2c255379f710c"
   },
   {
     "full_name": "remoteinterview/zero",
@@ -897,6 +997,7 @@
     "pushed_at": "2024-02-26T11:34:35Z",
     "size": 8277,
     "stargazers_count": 5832,
-    "forks_count": 243
+    "forks_count": 243,
+    "commit_sha": "e6a72ee49e03008a64c86ee5c34e2120a3b52908"
   }
 ]
