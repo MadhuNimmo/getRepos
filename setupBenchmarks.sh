@@ -34,16 +34,20 @@ do
         git init
         git remote add origin https://github.com/${git[i]}.git
         git fetch --depth 1 origin ${commit[i]}
-        git checkout FETCH_HEAD
+        git checkout ${commit[i]}
     fi
 
-    # Ensure package.json exists before running npm install
+    # Ensure package.json exists before proceeding
     if [ -f "package.json" ]; then
         echo "Installing npm dependencies for ${repo_name}"
+
+        # Install dependencies based on package.json
         npm install --force
+
     else
         echo "No package.json found in $repo_name. Skipping npm install."
     fi
 
     cd ..
 done
+
